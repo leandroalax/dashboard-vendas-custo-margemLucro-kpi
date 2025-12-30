@@ -14,6 +14,8 @@ Each visual was selected based on the business question it needed to answer, pri
 
 ### 2.1 Waterfall Chart – Total Sales by Shipping Mode
 
+<img width="467" height="330" alt="Print LAB II - grafico cascata" src="https://github.com/user-attachments/assets/e2ee32b1-1ed0-483d-938e-2a849a5fb151" />
+
 **Business question:** What is the total sales value by shipping mode?
 
 **Rationale:**
@@ -25,6 +27,8 @@ Enables quick identification of the most relevant shipping modes in terms of rev
 ---
 
 ### 2.2 Treemap – Average Shipping Cost by Market
+
+<img width="648" height="307" alt="Print LAB II - treemap" src="https://github.com/user-attachments/assets/7a2fd17a-3879-4cd1-a782-0d0f2d45beaf" />
 
 **Business question:** Which markets have the highest average shipping cost?
 
@@ -38,6 +42,8 @@ Supports the identification of markets with higher logistics cost pressure, info
 
 ### 2.3 KPI Indicator – Average Sales Value vs Target
 
+<img width="370" height="273" alt="Print LAB II - kpi indicator" src="https://github.com/user-attachments/assets/ca6b25d1-963e-4e83-84b6-c2b0c92bea69" />
+
 **Business question:** Is the company meeting the monthly average sales value target of 350?
 
 **Rationale:**
@@ -50,6 +56,8 @@ Facilitates executive-level communication and rapid assessment of performance ag
 
 ### 2.4 Donut Chart – Average Profit by Product Category
 
+<img width="361" height="307" alt="Print LAB II - grafico rosca" src="https://github.com/user-attachments/assets/1c987903-677c-42c0-beaf-66a8acacc799" />
+
 **Business question:** Which product category has the highest average profit?
 
 **Rationale:**
@@ -61,6 +69,8 @@ Highlights the most profitable product categories, supporting portfolio manageme
 ---
 
 ### 2.5 Line Chart – Profit Margin Trend Over Time
+
+<img width="648" height="312" alt="Print LAB II - grafico linha" src="https://github.com/user-attachments/assets/0853f1c7-7e08-4ee1-875a-f21b78427151" />
 
 **Business question:** How has profit margin behaved over time?
 
