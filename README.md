@@ -123,6 +123,8 @@ The dashboard includes the following visual components:
 
 Each visualization was selected based on best practices in data visualization and is aligned with a specific business question.
 
+<img width="1305" height="727" alt="Print LAB II - Versão 1 0 0" src="https://github.com/user-attachments/assets/ae09f4df-3378-4983-a1b4-08132df3009f" />
+
 For a detailed explanation of the visualization rationale, see:
 
 📄 **[Data Visualization Rationale](docs/data_visualization_rationale.md)**
