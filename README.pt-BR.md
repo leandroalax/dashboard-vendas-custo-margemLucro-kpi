@@ -118,3 +118,6 @@ Esses filtros possibilitam a exploração dinâmica do desempenho em diferentes 
 ---
 ## 10. Aviso Legal (Disclaimer)
 Os conjuntos de dados utilizados neste projeto foram fornecidos exclusivamente para fins educacionais pela Data Science Academy e não representam dados reais de uma empresa.
+---
+Para consultas profissionais ou oportunidades de colaboração,
+leandroalax@hotmail.com
