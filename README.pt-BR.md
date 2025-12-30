@@ -90,6 +90,8 @@ O dashboard inclui os seguintes componentes visuais:
 
 Cada visualização foi selecionada com base nas melhores práticas de visualização de dados e está alinhada a uma pergunta de negócio específica.
 
+<img width="1305" height="727" alt="Print LAB II - Versão 1 0 0" src="https://github.com/user-attachments/assets/2ca3ba26-767d-4f02-b022-d0eeb44daa5e" />
+
 Para uma explicação detalhada da lógica das visualizações, consulte:  
 📄 [Lógica de Visualização de Dados](docs/visualizacao_dados.md)
 ---
