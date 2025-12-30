@@ -169,3 +169,6 @@ Data Analytics | Business Intelligence | Power BI
 ## 10. Disclaimer
 
 The datasets used in this project were provided exclusively for educational purposes by Data Science Academy and do not represent real company data.
+---
+For professional inquiries or collaboration opportunities,
+leandroalax@hotmail.com
