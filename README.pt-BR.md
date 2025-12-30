@@ -91,7 +91,7 @@ O dashboard inclui os seguintes componentes visuais:
 Cada visualização foi selecionada com base nas melhores práticas de visualização de dados e está alinhada a uma pergunta de negócio específica.
 
 Para uma explicação detalhada da lógica das visualizações, consulte:  
-📄 [Lógica de Visualização de Dados](LINK_PARA_SEU_ARQUIVO)
+📄 [Lógica de Visualização de Dados](docs/visualizacao_dados.md)
 ---
 ## 6. Filtros e Interatividade
 O dashboard permite que os usuários filtrem os dados por:
