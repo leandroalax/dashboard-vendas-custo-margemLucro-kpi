@@ -161,16 +161,17 @@ These filters enable dynamic exploration of performance across different periods
 
 ---
 
-## 9. Author
-
-**Leandro Álax**
-Data Analytics | Business Intelligence | Power BI
-
----
-
-## 10. Disclaimer
+## 09. Disclaimer
 
 The datasets used in this project were provided exclusively for educational purposes by Data Science Academy and do not represent real company data.
 ---
+
+## 10. Author
+
+**Leandro Álax**
+Data Analytics | Business Intelligence | Power BI
 For professional inquiries or collaboration opportunities,
 leandroalax@hotmail.com
+
+---
+
